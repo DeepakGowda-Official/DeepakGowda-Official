@@ -21,7 +21,6 @@ I'm constantly exploring new technologies, frameworks, and ideas. From full-stac
 Innovation thrives on collaboration! Whether you're a fellow coder, a tech enthusiast, or someone with a brilliant idea, I'd love to connect. Together, we can make amazing things happen! Feel free to reach out anytime:
 
 - **Email**: deepakgowdaofficial@gmail.com
-- **LinkedIn**: [Connect with me](www.linkedin.com/in/deepakgowdaofficial)
 
 ---
 
