@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Deepak Gowda!
+# 👋 Hey there, I'm Deepak R!
 
 Welcome to my corner of the coding world! I'm an engineering student with a passion for creating innovative solutions and exploring the endless possibilities of technology. Whether it's diving deep into code, crafting intelligent systems, or pushing the boundaries of what's possible, I'm all in! 🌟
 
